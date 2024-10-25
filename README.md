@@ -18,6 +18,9 @@
 
 - [x] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
 - [ ]![led_stoplight](https://github.com/user-attachments/assets/cabeccf1-9b42-42f5-9514-78654bd7c0bc)
+https://github.com/user-attachments/assets/c02668dd-2c95-4935-8f67-8becec0cd551
+
+
 
  
 
@@ -37,17 +40,21 @@
 - In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
 - Take a short video of your button starting the stoplight and the pattern appearing correctly
 
-- [ ] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
+- [x] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
+- [ ]https://github.com/user-attachments/assets/5c46cc36-0e28-4645-9377-f24ce640d176
+
+ 
 ## Part V - Wrap Up
 
 - Make sure all the deliverables above are  uploaded to the repository
 - Answer the following questions:
 
-1. What is a Python library and how do you include one in your script?
+1. What is a Python library and how do you include one in your script? - A Python library is pre-written code you can use to perform specific tasks without having to write the code from scratch. To include one in your script, use the import statement, like we used the import time library to have our stoplights function on a timer
 
-2. What does it mean for elements of a circuits to be in series vs. in parallel?
+2. What does it mean for elements of a circuits to be in series vs. in parallel? - Series: components are in a single path, so current flows through each one in turn. If one component breaks, the whole circuit stops working.
+Parallel: components are in multiple paths, so current can flow through each one separately. If one element breaks, the others can still work.
 
-3. Can you create a circuit of 3 light bulbs in series? Why or why not?
+3. Can you create a circuit of 3 light bulbs in series? Why or why not? - yes, you can but the bulbs will get progressively dimmer and may be harder to see.
 
 
 ## Rubric 
@@ -65,7 +72,11 @@ _Course Content_
 _Workforce Readiness_  
   
 - 4 points - Exemplified  WFR standards  
-  - Language is professional.  
+  - Language is profess
+
+https://github.com/user-attachments/assets/73593847-1bd5-4b65-ba4a-4e0c6bb5c64c
+
+ional.  
   - Work is clear and easy to read.
   - Used deductive reasoning guide solution.
   - Reflection on own work was thoughtful and honest.  
